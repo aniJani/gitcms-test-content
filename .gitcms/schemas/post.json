@@ -1,0 +1,11 @@
+{
+  "name": "Post",
+  "pluralName": "Posts",
+  "fields": [
+    { "name": "title", "type": "string", "required": true, "label": "Title" },
+    { "name": "body", "type": "richtext", "required": true, "label": "Body" },
+    { "name": "excerpt", "type": "string", "label": "Excerpt" },
+    { "name": "coverImage", "type": "image", "label": "Cover Image" },
+    { "name": "status", "type": "select", "options": ["draft", "published"], "label": "Status" }
+  ]
+}

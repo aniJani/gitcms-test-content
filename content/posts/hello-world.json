@@ -1,0 +1,10 @@
+{
+  "title": "Hello World",
+  "body": "<h2>Welcome to GitCMS</h2><p>This is your first blog post, managed entirely through GitHub. Every edit you make here becomes a commit in your repository.</p><p>Try editing this post to see how the rich text editor works. You can use <strong>bold</strong>, <em>italic</em>, headings, lists, and more.</p><ul><li>Version-controlled content</li><li>Rich text editing</li><li>GitHub-native workflow</li></ul>",
+  "excerpt": "Your first blog post managed through GitCMS",
+  "coverImage": "",
+  "status": "published",
+  "createdAt": "2026-03-10T12:00:00.000Z",
+  "updatedAt": "2026-03-10T12:00:00.000Z",
+  "author": "aniJani"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "GitCMS Test Content",
+  "contentTypes": ["posts", "pages"],
+  "defaultBranch": "main"
+}

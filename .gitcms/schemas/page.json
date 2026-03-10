@@ -1,0 +1,10 @@
+{
+  "name": "Page",
+  "pluralName": "Pages",
+  "fields": [
+    { "name": "title", "type": "string", "required": true, "label": "Title" },
+    { "name": "body", "type": "richtext", "required": true, "label": "Body" },
+    { "name": "excerpt", "type": "string", "label": "Excerpt" },
+    { "name": "status", "type": "select", "options": ["draft", "published"], "label": "Status" }
+  ]
+}

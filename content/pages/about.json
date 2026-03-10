@@ -1,0 +1,10 @@
+{
+  "title": "About",
+  "body": "<h2>About GitCMS</h2><p>GitCMS is a headless content management system that uses GitHub repositories as its storage backend.</p><p>Built with:</p><ul><li>Next.js &amp; TypeScript</li><li>GitHub OAuth for authentication</li><li>Octokit for GitHub API integration</li><li>TipTap for rich text editing</li><li>Tailwind CSS for styling</li></ul><blockquote><p>Your content, version controlled.</p></blockquote>",
+  "excerpt": "Learn about GitCMS and how it works",
+  "coverImage": "",
+  "status": "published",
+  "createdAt": "2026-03-10T12:00:00.000Z",
+  "updatedAt": "2026-03-10T12:00:00.000Z",
+  "author": "aniJani"
+}
